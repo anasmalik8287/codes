@@ -1,4 +1,4 @@
-# codes
+# code of vending machine
 module vending_machine(
     output reg nw_pa,
     input [1:0] coin,
